@@ -1,0 +1,33 @@
+body{
+    font-family: 'Times New Roman', Times, center;font-size: 20px; background-color: deeppink;
+}
+ 
+img{
+    width: 230px; float: central; /* margin-right; 5px; */ margin-top: 10px; margin-left: 10px;
+}
+
+h1{
+    color: white; text-align: center;
+}
+
+h2{
+    color: white; text-align: center;
+}
+
+table{
+    border="1px"
+}
+div.header{
+    margin-bottom: 50px; border: 5px outset royalblue; background-color: blue; text-align: center;
+}
+div{
+    text-align: center ;
+}
+
+.title {
+    color:blanchedalmond
+}
+
+h2 {
+    color: white;
+}
